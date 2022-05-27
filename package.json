@@ -1,0 +1,29 @@
+{
+  "name": "jett",
+  "version": "1.0.0",
+  "description": "Next Powerful selection of the Discord.",
+  "main": "jett.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JETT-DISCORD"
+  ],
+  "author": "JETT Developers",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JETT-app/JETT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JETT-app/JETT/issues"
+  },
+  "homepage": "https://github.com/JETT-app/JETT#readme"
+}
